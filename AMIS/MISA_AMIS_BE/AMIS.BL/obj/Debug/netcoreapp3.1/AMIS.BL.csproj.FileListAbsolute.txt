@@ -1,0 +1,14 @@
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\AMIS.BL\bin\Debug\netcoreapp3.1\AMIS.BL.deps.json
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\AMIS.BL\bin\Debug\netcoreapp3.1\AMIS.BL.dll
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\AMIS.BL\bin\Debug\netcoreapp3.1\AMIS.BL.pdb
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\AMIS.BL\bin\Debug\netcoreapp3.1\AMIS.DAO.dll
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\AMIS.BL\bin\Debug\netcoreapp3.1\Common.dll
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\AMIS.BL\bin\Debug\netcoreapp3.1\AMIS.DAO.pdb
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\AMIS.BL\bin\Debug\netcoreapp3.1\Common.pdb
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\AMIS.BL\obj\Debug\netcoreapp3.1\AMIS.BL.csprojAssemblyReference.cache
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\AMIS.BL\obj\Debug\netcoreapp3.1\AMIS.BL.AssemblyInfoInputs.cache
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\AMIS.BL\obj\Debug\netcoreapp3.1\AMIS.BL.AssemblyInfo.cs
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\AMIS.BL\obj\Debug\netcoreapp3.1\AMIS.BL.csproj.CoreCompileInputs.cache
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\AMIS.BL\obj\Debug\netcoreapp3.1\AMIS.BL.csproj.CopyComplete
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\AMIS.BL\obj\Debug\netcoreapp3.1\AMIS.BL.dll
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\AMIS.BL\obj\Debug\netcoreapp3.1\AMIS.BL.pdb

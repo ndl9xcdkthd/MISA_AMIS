@@ -1,0 +1,11 @@
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\Common\bin\Debug\netcoreapp3.1\Common.dll
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\Common\bin\Debug\netcoreapp3.1\Common.pdb
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\Common\obj\Debug\netcoreapp3.1\Common.Properties.Resources.resources
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\Common\obj\Debug\netcoreapp3.1\Common.csproj.GenerateResource.cache
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\Common\obj\Debug\netcoreapp3.1\Common.dll
+E:\CSharp_Code\MISA\Bai_Danh_Gia\AMIS\MISA_AMIS_BE\Common\obj\Debug\netcoreapp3.1\Common.pdb
